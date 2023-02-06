@@ -1,0 +1,10 @@
+pymongo[srv]==4.2.0
+pandas==2.7.0
+from-root
+pyYAML
+imblearn==0.0
+xgboost
+fastapi
+uvicorn
+-e .
+

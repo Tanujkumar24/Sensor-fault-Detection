@@ -1,0 +1,2 @@
+TRAINING_BUCKET_NAME="sensormodel"
+PREDICTION_BUCKET_NAME="sensor_datasource"
